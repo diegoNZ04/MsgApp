@@ -1,0 +1,19 @@
+.title-join{
+    color: aliceblue;
+    font-size: large;
+}
+
+.join-container {
+    background-color: aliceblue;
+    border-radius: 20px;
+    background-color: #FFF;
+    color: #000;
+    width: 200px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    -webkit-box-shadow: 5px 5px 17px 1px rgba(0, 0, 0, 0.3);
+	box-shadow: 5px 5px 17px 1px rgba(0, 0, 0, 0.3);
+}
